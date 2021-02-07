@@ -8,7 +8,7 @@ section {
 }
 
 header a {
-	font-family: var(--Sniglet-font);
+	font-family: 'Sniglet', cursive ;
 	font-size: 0.9em;
 	color: whitesmoke;
 }
@@ -151,7 +151,7 @@ header .container .col-md-7 span {
 .about-content {
 	font-weight: 600;
 	margin-top: 8%;
-	font-family: var(--Sniglet-font);
+	font-family: 'Sniglet', cursive;
 	text-align: justify;
 }
 
@@ -204,7 +204,7 @@ h2,
 h3,
 h4,
 h5 {
-	font-family: var(--Sniglet-font);
+	font-family: 'Sniglet', cursive;
 	text-align: center;
 }
 
