@@ -169,6 +169,10 @@ header .container .col-md-7 span {
 
 /* Testimonial Section */
 
+.testimonial-image {
+	width: 100px;
+}
+
 .container-fluid {
 	padding: 7% 15%;
 }
@@ -278,7 +282,7 @@ p {
 	color: white;
 }
 #footer a img {
-	width: 50px;
+	width: 75px;
 }
 
 hr {
